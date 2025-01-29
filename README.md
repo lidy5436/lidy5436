@@ -1,16 +1,15 @@
-## Hi there 👋
+## 欢迎来到 [李东阳的仓库] 🎉 
 
-<!--
-**lidy5436/lidy5436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 **技术栈**: java / vue / python
 
-Here are some ideas to get you started:
+🗺️ **仓库索引**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|             仓库名称              |                     仓库地址                     |
+| :-------------------------------: | :----------------------------------------------: |
+|          Python日常代码           |       https://github.com/lidy5436/CaseCode       |
+|             书签网页              |      https://github.com/lidy5436/work-home       |
+|         java公共仓库源码          | https://github.com/lidy5436/dependencies-website |
+| 侧滑操作组件 (仿QQ的侧滑删除组件) |     https://github.com/lidy5436/plugin-code      |
+|        后台管理模板(后端)         |  https://github.com/lidy5436/Website-Admin-Boot  |
+|        后台管理模板(前端)         |    https://github.com/lidy5436/Website-Admin     |
+
