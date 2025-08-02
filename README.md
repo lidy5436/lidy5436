@@ -13,7 +13,7 @@
 ## 📫 联系方式
 
 - 邮箱: lidongyang.dev@foxmail.com
-- [李东阳的博客](http://lidongyang.site/)
+- 博客: [http://lidongyang.site/](http://lidongyang.site/)
 
 
 欢迎交流，感谢关注！🙏
