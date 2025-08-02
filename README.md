@@ -1,15 +1,21 @@
-## 欢迎来到 [李东阳的仓库] 🎉 
+# Hi there 👋, I'm 李东阳
 
-📖 **技术栈**: java / vue / python
+🚀 软件开发工程师 | 前端与后端全栈
 
-🗺️ **仓库索引**
+## 🛠 技能栈
 
-|             仓库名称              |                     仓库地址                     |
-| :-------------------------------: | :----------------------------------------------: |
-|          Python日常代码           |       https://github.com/lidy5436/CaseCode       |
-|             书签网页              |      https://github.com/lidy5436/work-home       |
-|         java公共仓库源码          | https://github.com/lidy5436/dependencies-website |
-| 侧滑操作组件 (仿QQ的侧滑删除组件) |     https://github.com/lidy5436/plugin-code      |
-|        后台管理模板(后端)         |  https://github.com/lidy5436/Website-Admin-Boot  |
-|        后台管理模板(前端)         |    https://github.com/lidy5436/Website-Admin     |
+- **语言**: JavaScript, TypeScript, Java, Python
+- **前端**: React, Vue3, Ant Design, TailwindCSS
+- **后端**: Spring Boot, MyBatis, MongoDB
+- **工具**: Git, Docker, VSCode, WebStorm
+
+
+## 📫 联系方式
+
+- 邮箱: lidongyang.dev@foxmail.com
+- [李东阳的博客](http://lidongyang.site/)
+
+
+欢迎交流，感谢关注！🙏
+
 
